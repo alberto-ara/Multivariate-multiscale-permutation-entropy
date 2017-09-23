@@ -1,6 +1,11 @@
 MIT License
 
+Copyright (c) 2012 Nikolay Donets
 Copyright (c) 2017 Alberto Ara
+
+The following code is a derivative work of the code from Nikolay Donets, 
+which is licensed under the Apache License 2.0. This code is therefore also 
+licensed under the terms of the Apache License, version 2.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
