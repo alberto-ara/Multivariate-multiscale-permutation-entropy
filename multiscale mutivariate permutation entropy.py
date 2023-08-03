@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 def mpe(mts, m, d):
     """
-    This function attempts to compute the multivariate permutation entropy of a multivariate time series. 
+    This function computes the multivariate permutation entropy of a multivariate time series. 
     The algorithm follows the formulations of Morabito et al. (2012) and it is based for the most part on
     Nikolay Donets' pyEntropy code (2012).
         
